@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
