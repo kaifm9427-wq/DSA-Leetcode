@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
