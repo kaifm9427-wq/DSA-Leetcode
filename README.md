@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1795-rearrange-products-table](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Sorting
 |  |
