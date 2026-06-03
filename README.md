@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
 | [2126-destroying-asteroids](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [2540-minimum-common-value](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
