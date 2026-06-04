@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
