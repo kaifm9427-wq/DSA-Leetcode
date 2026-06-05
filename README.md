@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Design
 |  |
 | ------- |
