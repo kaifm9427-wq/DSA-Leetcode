@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [2126-destroying-asteroids](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -167,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
