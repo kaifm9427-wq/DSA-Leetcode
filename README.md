@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [2126-destroying-asteroids](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
