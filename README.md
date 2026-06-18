@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -225,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
