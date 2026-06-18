@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
