@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1732-find-the-highest-altitude](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Indexed Tree
 |  |
