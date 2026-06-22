@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
+| [1189-maximum-number-of-balloons](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1189-maximum-number-of-balloons](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2540-minimum-common-value) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
