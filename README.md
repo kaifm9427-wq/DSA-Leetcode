@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Queue
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -274,11 +278,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
