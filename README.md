@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
