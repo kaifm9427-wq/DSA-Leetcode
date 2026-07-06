@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1288-remove-covered-intervals](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
+| [1288-remove-covered-intervals](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1840-maximum-building-height) |
