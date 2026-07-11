@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
+| [2685-count-the-number-of-complete-components](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
+| [2685-count-the-number-of-complete-components](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2685-count-the-number-of-complete-components](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2685-count-the-number-of-complete-components](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
