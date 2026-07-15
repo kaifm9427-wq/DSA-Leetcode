@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
