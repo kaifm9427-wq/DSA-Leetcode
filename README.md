@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0860-lemonade-change) |
