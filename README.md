@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
