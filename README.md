@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0860-lemonade-change) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0994-rotting-oranges) |
