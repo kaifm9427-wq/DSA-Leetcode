@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Graph Theory
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
