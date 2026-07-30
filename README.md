@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
 | ------- |
