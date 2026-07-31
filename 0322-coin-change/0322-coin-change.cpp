@@ -1,22 +1,23 @@
 class Solution {
 public:
-    int n;
-    int dp[13][10001];
-    int func(int ind,vector<int>& coins,int amount){
-        if(ind>=n){
-            return 1e9;
-        }
-        if(amount==0) return 0;
-        if(amount<0) return 1e9;
-        if(dp[ind][amount]!=-1) return dp[ind][amount];
-        int pick=1+func(ind,coins,amount-coins[ind]);
-        int notpick=func(ind+1,coins,amount);
-        return dp[ind][amount]=min(pick,notpick);
-    }
+    
     int coinChange(vector<int>& coins, int amount) {
-        n=coins.size();
-        memset(dp,-1,sizeof(dp));
-        int ans= func(0,coins,amount);
-        return ans>=1e9? -1:ans;
+        int n=coins.size();
+       
+        vector<vector<int>>dp(n+1,vector<int>(amount+1,1e9));
+        for(int i=0; i<=n; i++){
+            dp[i][0]=0;
+        }
+        for(int i=n-1; i>=0; i--){
+            for(int j=1; j<=amount; j++){
+                int pick=1e9;
+                if(j>=coins[i]){
+                    pick=1+dp[i][j-coins[i]];
+                }
+                int notpick=dp[i+1][j];
+                dp[i][j]=min(pick,notpick);
+            }
+        }
+        return dp[0][amount]>=1e9? -1: dp[0][amount];
     }
 };
