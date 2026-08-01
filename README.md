@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
