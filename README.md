@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1732-find-the-highest-altitude](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -509,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
