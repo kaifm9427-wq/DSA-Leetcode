@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0542-01-matrix) |
+| [0552-student-attendance-record-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0877-stone-game) |
