@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1251-average-selling-price](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1251-average-selling-price) |
 | [1795-rearrange-products-table](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1795-rearrange-products-table) |
