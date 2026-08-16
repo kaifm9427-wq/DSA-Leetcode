@@ -5,4 +5,4 @@ a.city,
 a.state
 from Person as p
 left join Address as a
-on a.personId=p.personId;
+on p.personId=a.personId;
