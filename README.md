@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0228-summary-ranges) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0455-assign-cookies) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0274-h-index) |
 | [1189-maximum-number-of-balloons](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1189-maximum-number-of-balloons](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -565,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
