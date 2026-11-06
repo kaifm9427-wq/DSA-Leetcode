@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0200-number-of-islands) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kaifm9427-wq/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
